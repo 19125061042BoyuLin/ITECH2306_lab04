@@ -10,7 +10,7 @@ public class Task1 {
 		//step 3
 		Scanner scan = new Scanner(System.in);
 		
-		//step 4
+		//step4
 		for (int i = 0; i < numbers.length; i++) {
 			System.out.println("ÇëÊäÈëÊı×Ö£º ");
 			int n1 = scan.nextInt();
